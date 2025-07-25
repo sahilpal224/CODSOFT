@@ -5,7 +5,7 @@ import string,random
 
 main = Tk()
 main.geometry("450x450")
-main.title("Password Generator by Shivam")
+main.title("Password Generator by Sahil")
 main.config(bg="light blue")
 main.resizable(False,False)
 
